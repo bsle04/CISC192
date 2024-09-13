@@ -1,0 +1,3 @@
+C:/Users/Brandon/Lab4Q2/cmake-build-debug/CMakeFiles/Lab4Q2.dir
+C:/Users/Brandon/Lab4Q2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Brandon/Lab4Q2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
